@@ -1,0 +1,536 @@
+ship_name,operator,url,callsign,IMO_number,MMSI_number,crew,capacity
+Running on Waves,88 Parsec Ltd,https://www.vesselfinder.com/vessels/RUNNING-ON-WAVES-IMO-9589205-MMSI-229383000,9HA3288,9589205,229383000,19,42
+Adriana,Adriana Cruises,https://en.wikipedia.org/wiki/MS_Adriana,V4CH2,7118404,341857000,100,350
+AIDAaura,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAaura,IBNZ,9221566,247117400,418,1300
+AIDAbella,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAbella,ICGS,9362542,247229700,646,2500
+AIDAblu,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAblu,IBWX,9398888,247282500,607,2500
+AIDAcara,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAcara,IBNR,9112789,247117300,360,1339
+AIDAdiva,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAdiva,ICDH,9334856,247187700,646,2500
+AIDAluna,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAluna,ICLP,9334868,247255400,607,2500
+AIDAmar,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAmar,ICSJ,9490052,247312900,620,2686
+AIDAnova,AIDA Cruises,https://www.vesselfinder.com/vessels/AIDANOVA-IMO-9781865-MMSI-247389200,IBUK,9781865,247389200,1500,6600
+AIDAperla,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAperla,IBRL,9636967,247385300,900,4350
+AIDAprima,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAprima,IBGU,9636955,247353800,900,3400
+AIDAsol,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAsol,ICPE,9490040,247302900,609,2686
+AIDAstella,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAstella,ICUP,9601132,247322800,620,2700
+AIDAvita,AIDA Cruises,https://en.wikipedia.org/wiki/AIDAvita,IBNP,9221554,247114900,426,1582
+American Glory,American Cruise Lines,https://www.cruisemapper.com/ships/American-Glory-824,WDA8860,8972338,366858820,22,54
+Independence,American Cruise Lines,https://en.wikipedia.org/wiki/Independence_(cruise_ship),WDF3297,9583366,367438210,400,1073
+Queen of the Mississippi,American Cruise Lines,https://en.wikipedia.org/wiki/Queen_of_the_Mississippi_(2015_ship),WDH7491,,367648680,40,150
+St Helena,Andrew Weir Shipping Ltd,https://en.wikipedia.org/wiki/RMS_St_Helena_(1989),MMHE5,8716306,232669000,56,156
+A Rosa Stella,Arosa Cruises,https://www.vesselfinder.com/vessels/A-ROSA-STELLA-IMO-0-MMSI-269057680,HE7680,,269057680,45,174
+Formosa Queen,Asia Star Cruises,https://en.wikipedia.org/wiki/MV_Ocean_Pearl,3FLU9,7005190,538003398,423,1196
+Oriana,Astro Ocean,https://en.wikipedia.org/wiki/MV_Oriana_(1995),ZCDU9,9050137,310529000,794,1928
+Azamara Journey,Azamara Cruises,https://en.wikipedia.org/wiki/Azamara_Journey,9HOB8,9200940,256204000,408,781
+Azamara Quest,Azamara Cruises,https://en.wikipedia.org/wiki/Azamara_Quest,9HOM8,9210218,256216000,408,781
+Grand Celebration,Bahamas Paradise Cruise Line,https://en.wikipedia.org/wiki/Grand_Celebration,CQMC,8314134,255803270,670,1896
+Grand Classica,Bahamas Paradise Cruise Line,https://www.vesselfinder.com/vessels/GRAND-CLASSICA-IMO-8716502-MMSI-255806153,CQAE7,8716502,255806153,650,1570
+Birka Stockholm,Birka Line,https://en.wikipedia.org/wiki/MS_Birka_Stockholm,SIJW,9273727,266314000,200,2000
+Royal Iris,Black Sea Cruises,https://en.wikipedia.org/wiki/MS_Royal_Iris,UBRP5,7032997,273397120,325,770
+Ivan Franko,Black Sea Shipping Company,https://en.wikipedia.org/wiki/MS_Ivan_Franko,J8TA9,5415901,,150,750
+Mikhail Lermontov,Black Sea Shipping Company,https://en.wikipedia.org/wiki/MS_Mikhail_Lermontov,UQTT,7042318,,347,1334
+Ocean Life,Blue Ocean Cruises,https://en.wikipedia.org/wiki/MV_Ocean_Life,9HGB9,7625809,256935000,98,550
+Reef Endeavour,Captain Cook Cruises,https://en.wikipedia.org/wiki/MV_Reef_Endeavour,3DQF,9012666,520184000,50,150
+Carnival Breeze,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Breeze,3FZO8,9555723,354842000,1386,4428
+Carnival Conquest,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Conquest,3FPQ9,9198355,357657000,1150,3581
+Carnival Dream,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Dream,3ETA7,9378474,370490000,1369,4533
+Carnival Ecstasy,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Ecstasy,H3GR,8711344,353479000,920,2634
+Carnival Elation,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Elation,3FOC5,9118721,355831000,980,2554
+Carnival Fantasy,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Fantasy,H3GS,8700773,353486000,980,2675
+Carnival Fascination,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Fascination,C6FM9,9041253,309682000,980,2634
+Carnival Freedom,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Freedom,3EBL5,9333149,371154000,1150,3581
+Carnival Glory,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Glory,3FPS9,9198367,357659000,1150,3581
+Carnival Horizon,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Horizon,H3WI,9767091,370039000,1450,4977
+Carnival Imagination,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Imagination,C6FN2,9053878,309933000,980,2634
+Carnival Inspiration,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Inspiration,C6FM5,9087489,309484000,980,2610
+Carnival Legend,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Legend,9HA3667,9224726,229857000,961,2549
+Carnival Liberty,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Liberty,HPYE,9278181,371083000,1160,3574
+Carnival Magic,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Magic,3ETA8,9378486,370491000,1386,4428
+Carnival Miracle,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Miracle,H3VS,9237357,354277000,961,2549
+Carnival Panorama,Carnival Cruise Line,https://www.vesselfinder.com/vessels/CARNIVAL-PANORAMA-IMO-9802384-MMSI-374527000,3FJB3,9802384,374527000,1450,4716
+Carnival Paradise,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Paradise,3FOB5,9120877,355833000,980,2668
+Carnival Pride,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Pride,H3VU,9223954,354215000,961,2549
+Carnival Sensation,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Sensation,C6FM8,8711356,309697000,980,2634
+Carnival Spirit,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Spirit,9HA3097,9188647,229136000,961,2549
+Carnival Splendor,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Splendor,3EUS,9333163,372808000,1150,3619
+Carnival Sunrise,Carnival Cruise Line,https://www.vesselfinder.com/vessels/CARNIVAL-SUNRISE-IMO-9138850-MMSI-308045000,C6FN5,9138850,308045000,1110,3730
+Carnival Sunshine,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Sunshine,C6FN4,9070058,308017000,1150,3765
+Carnival Valor,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Valor,H3VR,9236389,354298000,1180,3581
+Carnival Victory,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Victory,3FFL8,9172648,355263000,1100,3470
+Carnival Vista,Carnival Cruise Line,https://en.wikipedia.org/wiki/Carnival_Vista,3EMB9,9692569,,1450,4977
+Bahamas Celebration,Celebration Cruise Line,https://en.wikipedia.org/wiki/MS_Bahamas_Celebration,V4FW3, 7904891,341944000,300,1900
+Celebrity Apex,Celebrity Cruises,https://www.vesselfinder.com/vessels/CELEBRITY-APEX-IMO-9838383-MMSI-215105000,9HA4960,9838383,215105000,1320,3373
+Celebrity Century,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Century,9HJI9,9072446,249054000,843,1814
+Celebrity Constellation,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Constellation,9HJB9,9192399,249046000,999,2556
+Celebrity Eclipse,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Eclipse,9HXC9,9404314,249666000,1271,3420
+Celebrity Edge,Celebrity Cruises,https://www.vesselfinder.com/vessels/CELEBRITY-EDGE-IMO-9812705-MMSI-248325000,9HA4612,9812705,248325000,1377,3521
+Celebrity Equinox,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Equinox,9HXD9,9372456,249667000,1250,3420
+Celebrity Flora,Celebrity Cruises,https://www.vesselfinder.com/vessels/CELEBRITY-FLORA-IMO-9837925-MMSI-735059945,HC6354,9837925,735059945,82,100
+Celebrity Infinity,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Infinity,9HJD9,9189421,249048000,999,2604
+Celebrity Millennium,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Millennium,9HJF9,9189419,249055000,999,2590
+Celebrity Reflection,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Reflection,9HA3047,9506459,229074000,1271,3655
+Celebrity Silhouette,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Silhouette,9HA2583,9451094,248939000,1500,3463
+Celebrity Solstice,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Solstice,9HRJ9,9362530,249409000,1250,3420
+Celebrity Summit,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Summit,9HJC9,9192387,249047000,999,2590
+Celebrity Xpedition,Celebrity Cruises,https://en.wikipedia.org/wiki/Celebrity_Xpedition,HC2083,9228368,735023483,68,118
+Celebrity Xperience,Celebrity Cruises,https://www.vesselfinder.com/vessels/XPERIENCE-IMO-8112902-MMSI-735057561,HC4228,8112902,735057561,32,58
+Celestyal Crystal,Celestyal Cruises,https://www.vesselfinder.com/vessels/CELESTYAL-CRYSTAL-IMO-7827213-MMSI-229001000,9HA2978,7827213,229001000,406,1452
+Celestyal Olympia,Celestyal Cruises,https://en.wikipedia.org/wiki/MS_Thomson_Destiny,9HA3027,7927984,229051000,540,1664
+Gemini,Celestyal Cruises,https://en.wikipedia.org/wiki/MS_Gemini,C6AY8, 9000687,311000160,700,1074
+China Star,China Cruise Company,https://en.wikipedia.org/wiki/MV_China_Star,C6OP6,9008407,309788000,150,354
+Freewinds,Church of Scientology,https://en.wikipedia.org/wiki/Freewinds,H9CK,6810811,354993000,50,360
+Princess Daphne,Classic International Cruises,https://en.wikipedia.org/wiki/Princess_Daphne,CQSD,5282627,255718000,225,550
+Club Med 2,Club Med,https://en.wikipedia.org/wiki/Club_Med_2,FNIR,9007491,227194000,214,386
+Hanseatic,Columbia Cruise Services GmbH,https://en.wikipedia.org/wiki/MS_Hanseatic,C6KA9,9000168,309577000,125,184
+Cruise Barcelona,Companhia Colonial de Navegacao,https://www.vesselfinder.com/vessels/CRUISE-BARCELONA-IMO-9351488-MMSI-247243600,IBWP,9351488,247243600,500,2794
+Oceanic Discoverer,Coral Princess Cruises,https://www.vesselfinder.com/vessels/CORAL-DISCOVERER-IMO-9292747-MMSI-503492000,VMQ8808,9292747,503492000,25,72
+Chinese Taishan,Costa Cruises,https://en.wikipedia.org/wiki/Chinese_Taishan,D5MU2,9183506,636017800,353,927
+Costa Allegra,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Allegra,ICRA,6916885,247816000,30,1072
+Costa Atlantica,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Atlantica,IBLQ,9187796,247645000,902,2680
+Costa Classica,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Classica,ICIC,8716502,247819000,620,1680
+Costa Concordia,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Concordia,IBHD,9320544,247158500,1100,3780
+Costa Deliziosa,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Deliziosa,IBJD,9398917,247282900,1100,2828
+Costa Diadema,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Diadema,IBCX,9636888,247353700,1253,4526
+Costa Fascinosa,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Fascinosa,ICPO,9479864,247313500,1100,3780
+Costa Favolosa,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Favolosa,ICPK,9479852,247311100,1110,3780
+Costa Fortuna,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Fortuna,IBNY,9239783,247094800,1090,3470
+Costa Luminosa,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Luminosa,ICGU,9398905,247257900,1050,2826
+Costa Magica,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Magica,IBQQ,9239795,247113300,1068,3470
+Costa Mediterranea,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Mediterranea,IBCF,9237345,247088200,920,2680
+Costa neoRiviera,Costa Cruises,https://en.wikipedia.org/wiki/Costa_neoRiviera,IBDU,9172777,247325300,670,1727
+Costa neoRomantica,Costa Cruises,https://en.wikipedia.org/wiki/Costa_neoRomantica,IBCR,8821046,247817000,650,1894
+Costa Pacifica,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Pacifica,ICJA,9378498,247258100,1100,3780
+Costa Serena,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Serena,ICAZ,9343132,247187600,1100,3700
+Costa Smeralda,Costa Cruises,https://www.vesselfinder.com/vessels/COSTA-SMERALDA-IMO-9781889-MMSI-247391900,IBCA,9781889,247391900,1682,6518
+Costa Venezia,Costa Cruises,https://www.vesselfinder.com/vessels/COSTA-VENEZIA-IMO-9801689-MMSI-247391100,IBAD,9801689,247391100,1278,5260
+Costa Victoria,Costa Cruises,https://en.wikipedia.org/wiki/Costa_Victoria,IBLC,9109031,247109000,820,2394
+Aranui 3,CPTM,https://en.wikipedia.org/wiki/Aranui_3,FNTU,9245354,546001000,64,208
+Aranui 5,CPTM,https://en.wikipedia.org/wiki/Aranui_5,FIQC,9677492,546018800,64,256
+Columbus,Cruise & Maritime Voyages,https://en.wikipedia.org/wiki/MV_Columbus,C6CP4,8611398,311000535,700,1856
+Discovery,Cruise & Maritime Voyages,https://en.wikipedia.org/wiki/MV_Discovery,ZCDG2,7108514,310382000,350,698
+Magellan,Cruise & Maritime Voyages,"https://en.wikipedia.org/wiki/MS_Magellan_(ship,_1985)",CQNH,8217881,255803790,660,1452
+Marco Polo,Cruise & Maritime Voyages,https://en.wikipedia.org/wiki/MS_Marco_Polo,C6JZ7,6417097,308693000,356,915
+Ocean Countess,Cruise & Maritime Voyages,https://en.wikipedia.org/wiki/Ocean_Countess,CQRH,7358561,255724000,350,800
+Vasco da Gama,Cruise & Maritime Voyages,https://en.wikipedia.org/wiki/MS_Statendam,C6EG8,8919245,311000891,1025,3194
+Astoria,Cruise and Maritime Voyages,https://www.vesselfinder.com/vessels/ASTORIA-IMO-5383304-MMSI-255801380,CQRV,5383304,255801380,200,600
+Spirit of BC,Cruise West,https://www.vesselfinder.com/vessels/SPIRIT-OF-BC-IMO-9015668-MMSI-316001268,VOSM,9015668,316001268,470,2100
+Spirit of Discovery,Cruise West,https://www.vesselfinder.com/vessels/SPIRIT-OF-DISCOVERY-IMO-9802683-MMSI-232021171,MEYE7,9802683,232021171,530,999
+Spirit of Endeavour,Cruise West,https://www.vesselfinder.com/vessels/SPIRIT-OF-ENDEAVOUR-IMO-0-MMSI-235082858,2DXT6,,235082858,34,86
+Spirit of Glacier Bay,Cruise West,https://en.wikipedia.org/wiki/Spirit_of_Glacier_Bay,WDD4938,8883563,367129000,28,102
+Crystal Esprit,Crystal Cruises,https://www.vesselfinder.com/vessels/CRYSTAL-ESPRIT-IMO-8705266-MMSI-311000506,C6CL7,8705266,311000506,91,71
+Crystal Serenity,Crystal Cruises,https://en.wikipedia.org/wiki/Crystal_Serenity,C6SY3,9243667,311536000,655,1254
+Crystal Symphony,Crystal Cruises,https://en.wikipedia.org/wiki/Crystal_Symphony,C6MY5,9066667,309168000,545,1040
+Franconia,Cunard Line,https://www.vesselfinder.com/vessels/FRANCONIA-IMO-0-MMSI-211523120,DA5093,,211523120,500,1700
+Queen Elizabeth,Cunard Line,https://en.wikipedia.org/wiki/MS_Queen_Elizabeth,ZCEF2,9477438,310625000,900,2547
+Queen Mary 2,Cunard Line,https://en.wikipedia.org/wiki/RMS_Queen_Mary_2,ZCEF6,9241061,310627000,1253,3271
+Queen Victoria,Cunard Line,https://en.wikipedia.org/wiki/MS_Queen_Victoria,ZCEF3,9320556,310624000,900,2489
+Salamis Glory,Cypriot Salamis Cruises,https://en.wikipedia.org/wiki/Salamis_Glory,P3CK7, 5018698,,150,500
+Pearl Seaways,DFDS Seaways,https://en.wikipedia.org/wiki/MS_Pearl_Seaways,OWFU2, 8701674,219945000,130,2200
+Glory Sea,Diamond Cruises,https://en.wikipedia.org/wiki/MV_Glory_Sea,C6TN4,9183518,311705000,230,838
+Disney Dream,Disney Cruise Line,https://en.wikipedia.org/wiki/Disney_Dream,C6YR6, 9434254,311042900,1458,4000
+Disney Fantasy,Disney Cruise Line,https://en.wikipedia.org/wiki/Disney_Fantasy,C6ZL6,9445590,311058700,1458,4000
+Disney Magic,Disney Cruise Line,https://en.wikipedia.org/wiki/Disney_Magic,C6PT7, 9126807,308516000,947,2700
+Disney Wonder,Disney Cruise Line,https://en.wikipedia.org/wiki/Disney_Wonder,C6QM8,9126819,308457000,947,2456
+OceanBreeze,Dolphin Cruise Lines,https://www.vesselfinder.com/vessels/OCEAN-BREEZE-IMO-9391529-MMSI-636018267,D5OY2,9391529,636018267,300,1160
+Explorer Dream,Dream Cruises,https://en.wikipedia.org/wiki/Explorer_Dream,C6AV6,9141077,311000165,1300,2800
+Genting Dream,Dream Cruises,https://en.wikipedia.org/wiki/Genting_Dream,C6BO5,9733105,311000319,2000,3400
+World Dream,Dream Cruises,https://en.wikipedia.org/wiki/World_Dream,C6BO4,9733117,311000318,2000,3400
+Safari Endeavour,EastLodge IV LLC,https://www.vesselfinder.com/vessels/SAFARI-ENDEAVOUR-IMO-8963698-MMSI-338423000,WDG2742,8963698,338423000,37,84
+EasyCruiseOne,easyCruise,https://en.wikipedia.org/wiki/EasyCruiseOne,9HJU9,8708658,,75,100
+Monet,Elegant Cruises,https://www.vesselfinder.com/vessels/MONET-IMO-7045803-MMSI-376457000,J8VE3,7045803,376457000,29,50
+Orient Queen,Etstur,https://en.wikipedia.org/wiki/MV_Orient_Queen,9HA2738,6821080,215467000,400,912
+Golden Princess,Eurasia International,https://en.wikipedia.org/wiki/MS_Golden_Princess_(2000),C6DC,6622458,6622458,173,515
+Balmoral,Fred. Olsen Cruise Lines,https://en.wikipedia.org/wiki/MV_Balmoral_(2008),C6II4,8506294,308785000,530,1420
+Black Watch,Fred. Olsen Cruise Lines,https://en.wikipedia.org/wiki/MS_Black_Watch_(1971),C6RS5,7108930,311166000,330,846
+Boudicca,Fred. Olsen Cruise Lines,https://en.wikipedia.org/wiki/MV_Boudicca,C6VA3,7218395,309964000,329,924
+Braemar,Fred. Olsen Cruise Lines,https://en.wikipedia.org/wiki/MS_Braemar,C6SY7,9000699,311541000,371,970
+50 Let Pobedy,FSUE Atomflot,https://en.wikipedia.org/wiki/50_Let_Pobedy,UGYU,9152959,,189,128
+Greg Mortimer,Greg Mortimer Owner Ltd,https://www.vesselfinder.com/vessels/GREG-MORTIMER-IMO-9834648-MMSI-311000866,C6ED7,9834648,311000866,100,120
+Bremen,Hapag-Lloyd Cruises,https://en.wikipedia.org/wiki/MS_Bremen,C6JC3,8907424,308429000,100,155
+Europa,Hapag-Lloyd Cruises,https://en.wikipedia.org/wiki/MS_Europa_(1999),C6QK8,9183855,308007000,285,408
+Europa 2,Hapag-Lloyd Cruises,https://www.vesselfinder.com/vessels/EUROPA-2-IMO-9616230-MMSI-229378000,9HA3283,9616230,229378000,370,516
+Hanseatic Inspiration,Hapag-Lloyd Cruises,https://www.vesselfinder.com/vessels/HANSEATIC-INSPIRATN-IMO-9817145-MMSI-311000910,C6EJ3,9817145,311000910,170,230
+Hanseatic Nature,Hapag-Lloyd Cruises,https://www.vesselfinder.com/vessels/HANSEATIC-NATURE-IMO-9817133-MMSI-311000865,C6ED6,9817133,311000865,170,230
+Hanseatic Spirit,Hapag-Lloyd Cruises,http://www.shipspotting.com/gallery/photo.php?lid=1392039,V2OT2,9088263,304691000,175,230
+RCGS Resolute,Hapag-Lloyd Cruises,https://www.vesselfinder.com/vessels/RCGS-RESOLUTE-IMO-9000168-MMSI-255806208,CQAL6,9000168,255806208,125,184
+Ocean Mist ,Hapero Sg Ltd,https://www.vesselfinder.com/vessels/OCEAN-MIST-IMO-5309906-MMSI-0,XUZT9,5309906,,140,220
+Harmony Princess,Harmony Cruise,https://en.wikipedia.org/wiki/Harmony_Princess,IBNC,6910544,247818000,400,1005
+Hebridean Princess,Hebridean Island Cruises,https://en.wikipedia.org/wiki/MV_Hebridean_Princess,GNHV,6409351,,38,870
+Henna,HNA Tourism Cruise,https://en.wikipedia.org/wiki/Henna_(ship),9HA2479,8314122,248708000,670,1486
+Amsterdam,Holland America Line,https://en.wikipedia.org/wiki/MS_Amsterdam,PBAD,9188037,244370000,647,1656
+Eurodam,Holland America Line,https://en.wikipedia.org/wiki/MS_Eurodam,PHOS,9378448,245206000,929,2525
+Koningsdam,Holland America Line,https://en.wikipedia.org/wiki/MS_Koningsdam,PBGJ,9692557,244830547,1036,3194
+Maasdam,Holland America Line,https://en.wikipedia.org/wiki/MS_Maasdam,PFRO,8919257,244958000,588,1510
+Nieuw Amsterdam,Holland America Line,https://en.wikipedia.org/wiki/MS_Nieuw_Amsterdam_(2009),PBWQ,9378450,246648000,929,2527
+Nieuw Statendam,Holland America Line,https://en.wikipedia.org/wiki/MS_Nieuw_Statendam,PBCO,9767106,244140580,1031,2650
+Noordam,Holland America Line,https://en.wikipedia.org/wiki/MS_Noordam,PHET,9230115,246028000,820,2366
+Oosterdam,Holland America Line,https://en.wikipedia.org/wiki/MS_Oosterdam,PBKH,9221281,245417000,817,2429
+Rotterdam,Holland America Line,https://en.wikipedia.org/wiki/MS_Rotterdam,PDGS,9122552,246167000,776,1685
+Ryndam,Holland America Line,http://www.shipspotting.com/gallery/photo.php?lid=1302424,PHFV,8919269,245026000,580,1260
+Veendam,Holland America Line,https://en.wikipedia.org/wiki/MS_Veendam,PHEO,9102992,246506000,588,1620
+Volendam,Holland America Line,https://en.wikipedia.org/wiki/MS_Volendam,PCHM,9156515,245968000,647,1718
+Westerdam,Holland America Line,https://en.wikipedia.org/wiki/MS_Westerdam,PINX,9226891,244128000,817,2362
+Zaandam,Holland America Line,https://en.wikipedia.org/wiki/MS_Zaandam,PDAN,9156527,246442000,647,1718
+Zuiderdam,Holland America Line,https://en.wikipedia.org/wiki/MS_Zuiderdam,PBIG,9221279,245304000,842,2364
+Hondius,Hondius Scheepsreizen BV,https://www.vesselfinder.com/vessels/HONDIUS-IMO-9818709-MMSI-244327000,PCEP,9818709,244327000,76,196
+Vidanta Alegria,Hoteles Dinamicos SA de CV,https://www.vesselfinder.com/vessels/VIDANTA-ELEGANT-IMO-8709573-MMSI-309695000,C6WC2,8709573,309695000,215,540
+Finnmarken,Hurtigruten,https://www.vesselfinder.com/vessels/FINNMARKEN-IMO-9231951-MMSI-259210000,LDBE,9231951,259210000,150,1000
+Fram,Hurtigruten,https://en.wikipedia.org/wiki/MS_Fram,LADA7,9370018,258932000,75,400
+Fridtjof Nansen,Hurtigruten,https://www.vesselfinder.com/vessels/FRIDTJOF-NANSEN-IMO-9813084-MMSI-257088070,LACN8,9813084,257088070,151,600
+Kong Harald,Hurtigruten,https://www.vesselfinder.com/vessels/KONG-HARALD-IMO-9039119-MMSI-257200000,LGIY,9039119,257200000,70,622
+Lofoten,Hurtigruten,https://www.vesselfinder.com/vessels/LOFOTEN-IMO-5424562-MMSI-258477000,LIXN,5424562,258477000,40,340
+Midnatsol ,Hurtigruten,https://www.vesselfinder.com/vessels/MIDNATSOL-IMO-9247728-MMSI-258595000,LEFO3,9247728,258595000,75,1000
+Nordkapp,Hurtigruten,https://en.wikipedia.org/wiki/MS_Nordkapp,LASQ, 9107772,259330000,76,691
+Nordlys,Hurtigruten,https://en.wikipedia.org/wiki/MS_Nordlys_(1993),LHCW,9048914,259139000,70,691
+Nordnorge,Hurtigruten,https://en.wikipedia.org/wiki/MS_Nordnorge_(1996),LCJI,9107784,,70,691
+Nordstjernen,Hurtigruten,https://www.vesselfinder.com/vessels/NORDSTJERNEN-IMO-5255777-MMSI-257276000,LATU3,5255777,257276000,40,300
+Polarlys,Hurtigruten,https://www.vesselfinder.com/vessels/MS-POLARLYS-IMO-9107796-MMSI-259322000,LHYG,9107796,259322000,70,619
+Richard With,Hurtigruten,https://www.vesselfinder.com/vessels/RICHARD-WITH-IMO-9040429-MMSI-258500000,LGWH,9040429,258500000,70,623
+Roald Amundsen,Hurtigruten,https://www.vesselfinder.com/vessels/ROALD-AMUNDSEN-IMO-9813072-MMSI-257425000,LAZP7,9813072,257425000,151,600
+Spitsbergen,Hurtigruten,https://www.vesselfinder.com/vessels/SPITSBERGEN-IMO-9434060-MMSI-258157000,LFEK,9434060,258157000,80,320
+Trollfjord,Hurtigruten,https://www.vesselfinder.com/vessels/TROLLFJORD-IMO-9233258-MMSI-258465000,LLVT,9233258,258465000,75,822
+Vesteralen,Hurtigruten,https://www.vesselfinder.com/vessels/VESTERALEN-IMO-8019368-MMSI-258478000,LLZY,8019368,258478000,50,510
+Regal Empress,Imperial Majesty Cruises,https://en.wikipedia.org/wiki/MS_Regal_Empress,C6LW2,5262835,341779000,900,1475
+Oriental Dragon,Island Ship Management,https://en.wikipedia.org/wiki/Oriental_Dragon,3FDZ8,7125861,353669000,350,882
+Amusement World,Jackston Maritime Ltd,https://www.vesselfinder.com/vessels/AMUSEMENT-WORLD-IMO-6620773-MMSI-374142000,HOGV,6620773,374142000,450,1300
+Pacific Venus ,Japanese Cruises,https://www.vesselfinder.com/vessels/PACIFIC-VENUS-IMO-9160011-MMSI-431281000,JPEI,9160011,431281000,220,720
+Shota Rustaveli,Kaalbye Shipping International,https://en.wikipedia.org/wiki/MS_Shota_Rustaveli,UUGF,6707753,,347,750
+Galapagos Legend,KleinTours/GoGalapagos,https://www.marinetraffic.com/en/ais/details/ships/shipid:778647/mmsi:735057603/imo:5404964/vessel:GALAPAGOS_LEGEND,HC4658,5404964,735057603,55,110
+Kristina Regina,Kristina Cruises,https://en.wikipedia.org/wiki/MS_Kristina_Regina,OGBF,5048485,230132000,55,366
+Ocean Endeavour,Kristina Cruises,https://en.wikipedia.org/wiki/MS_Ocean_Endeavour,C6CA6,7625811,311000419,124,450
+Delfin II Amazon,Lindblad Expeditions,https://www.vesselfinder.com/vessels/DELFIN-II.-IMO-0-MMSI-243071725,HGQY,,243071725,22,30
+National Geographic Endeavour,Lindblad Expeditions,https://en.wikipedia.org/wiki/National_Geographic_Endeavour,HC5241,6611863,735058913,64,112
+National Geographic Explorer,Lindblad Expeditions,https://en.wikipedia.org/wiki/MS_National_Geographic_Explorer,C6WR2,8019356,309336000,70,162
+National Geographic Islander,Lindblad Expeditions,https://www.vesselfinder.com/vessels/NATIONALGEO-ISLANDER-IMO-9139878-MMSI-735059027,HC4654,9139878,735059027,27,50
+National Geographic Orion,Lindblad Expeditions,https://www.vesselfinder.com/vessels/NAT-GEO-ORION-IMO-9273076-MMSI-311603000,C6TE3,9273076,311603000,75,106
+National Geographic Quest,Lindblad Expeditions,https://www.vesselfinder.com/vessels/NAT-GEO-QUEST-IMO-9798985-MMSI-366945000,WDJ3521,9798985,366945000,35,100
+National Geographic Sea Bird,Lindblad Expeditions,https://www.vesselfinder.com/vessels/NATGEO-SEABIRD-IMO-8966444-MMSI-366892350,WAK8004,8966444,366892350,24,70
+National Geographic Sea Lion,Lindblad Expeditions,https://www.vesselfinder.com/vessels/NAT-GEO-SEA-LION-IMO-8966456-MMSI-366396000,WUR9646,8966456,366396000,24,70
+Mona Lisa,Lord Nelson Seereisen,https://en.wikipedia.org/wiki/Mona_Lisa_(ship),C6RU6,6512354,311192000,417,782
+Coral,Louis Cruise Lines,https://en.wikipedia.org/wiki/MV_Coral,9HA2326,7046936,341159000,250,945
+Cruise Ausonia,Louis Cruise Lines,https://www.vesselfinder.com/vessels/CRUISE-AUSONIA-IMO-9227429-MMSI-247378700,IBWC,9227429,247378700,100,337
+Sapphire,Louis Cruise Lines,https://en.wikipedia.org/wiki/MS_Sapphire,V4LA2,6513994,,240,706
+The Emerald,Louis Cruise Lines,https://en.wikipedia.org/wiki/SS_The_Emerald,V4MR2,5312824,239942000,412,1198
+The Calypso,Louis Cruises,https://en.wikipedia.org/wiki/MS_The_Calypso,V4RU2,6715372,,250,596
+Sea Diamond,Louis Hellenic Cruise Lines,https://en.wikipedia.org/wiki/Sea_Diamond,SVMC,8406731,256162000,400,1537
+Lord of the Glens,Magna Carta Steamship Company Ltd,https://www.vesselfinder.com/vessels/LORD-OF-THE-GLENS-IMO-8966470-MMSI-235000295,ZQOE9,8966470,235000295,18,54
+Ocean Majesty,Majestic International Cruises,https://en.wikipedia.org/wiki/MV_Ocean_Majesty,CQSC,6602898,255717000,257,621
+Golden Iris,Mano Maritime,https://en.wikipedia.org/wiki/MS_Golden_Iris,3FZK4,7358573,371771000,350,959
+Norwegian Majesty,Mano Maritime,https://en.wikipedia.org/wiki/Norwegian_Majesty,9HA2188,8814744,248124000,620,1970
+Marella Discovery 2,Marcella Cruises,https://www.vesselfinder.com/vessels/MARELLA-DISCOVERY-2-IMO-9070620-MMSI-311378000,C6SL5,9070620,311378000,771,2198
+Marella Dream,Marcella Cruises,https://www.vesselfinder.com/vessels/MARELLA-DREAM-IMO-8407735-MMSI-248481000,9HA2381,8407735,248481000,600,1773
+Thomson Spirit,Marcella Cruises,https://www.cruisemapper.com/ships/Thomson-Spirit-597,9HA2336,8024014,248368000,520,1350
+Marella Celebration,Marella Cruises,https://en.wikipedia.org/wiki/MS_Thomson_Celebration,9HUI9,8027298,249544000,520,1350
+Marella Discovery,Marella Cruises,https://en.wikipedia.org/wiki/Marella_Discovery,9HA4324,9070632,249639000,760,2074
+Marella Explorer,Marella Cruises,https://en.wikipedia.org/wiki/Marella_Explorer,9HJH9,9106297,249051000,909,2681
+Marella Spirit,Marella Cruises,https://en.wikipedia.org/wiki/MS_Marella_Spirit,T8A3049, 8024014,511885000,520,1350
+SALAMIS FILOXENIA,Metropolis Tur,https://en.wikipedia.org/wiki/MS_Van_Gogh,5BUY2,7359400,209167000,216,795
+Armonia,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Armonia,H8EW,9210141,357281000,721,2679
+Bellissima,MSC Cruises,https://www.vesselfinder.com/vessels/MSC-BELLISSIMA-IMO-9760524-MMSI-248992000,9HA4902,9760524,248992000,1400,5386
+Divina,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Divina,3FFA5,9585285,373178000,1388,4202
+Fantasia,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Fantasia,3ETR7,9359791,370648000,1637,3959
+Grandiosa,MSC Cruises,https://www.vesselfinder.com/vessels/MSC-GRANDIOSA-IMO-9803613-MMSI-215325000,9HA5063,9803613,215325000,1700,6334
+IN WARSHIP P 30,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Melody,AWIC, 7902295,419000934,535,1600
+Lirica,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Lirica,HOPW,9246102,356042000,721,2679
+Magnifica,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Magnifica,3FLO4,9387085,352594000,1038,4083
+Meraviglia,MSC Cruises,https://www.vesselfinder.com/vessels/MSC-MERAVIGLIA-IMO-9760512-MMSI-249973000,9HA4455,9760512,249973000,1400,5386
+Musica,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Musica,3EFK6,9320087,352003000,1014,3060
+Opera,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Opera,H3FV,9250464,357627000,728,2679
+Orchestra,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Orchestra,3EJF3,9320099,372497000,1054,3200
+Poesia,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Poesia,3EPL4,9387073,355931000,1039,3605
+Preziosa,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Preziosa,3FOA6,9595321,371861000,1388,4378
+Qing,MSC Cruises,https://en.wikipedia.org/wiki/MS_Melody,AWFI,7902295,419000861,530,1550
+Seaside,MSC Cruises,https://www.vesselfinder.com/vessels/MSC-SEASIDE-IMO-9745366-MMSI-248392000,9HA4638,9745366,248392000,1413,4961
+Seaview,MSC Cruises,https://www.vesselfinder.com/vessels/MSC-SEAVIEW-IMO-9745378-MMSI-248717000,9HA4777,9745378,248717000,1413,4961
+Sinfonia,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Sinfonia,H8XH,9210153,356716000,721,2679
+Splendida,MSC Cruises,https://en.wikipedia.org/wiki/MSC_Splendida,3FZI8,9359806,357698000,1370,3929
+Klavdiya Yelanskaya ,Murmansk Shipping,https://www.vesselfinder.com/vessels/KLAVDIYA-YELANSKAYA-IMO-7422922-MMSI-273131500,UCKE,7422922,273131500,30,100
+Pride of America,NCL America,https://en.wikipedia.org/wiki/Pride_of_America,WNBE,9209221,366994450,927,2630
+Lyubov Orlova,Neptune International Shipping,https://en.wikipedia.org/wiki/MV_Lyubov_Orlova,E5U2246,7391434,,70,110
+Aegean Paradise,New Century Cruise Line,https://en.wikipedia.org/wiki/Aegean_Paradise,C6UU6,8902333,309877000,250,720
+Leisure World,New Century Cruise Line,https://en.wikipedia.org/wiki/MV_Leisure_World,3FNT4,6921828,374139000,250,850
+Asuka II,Nippon Yusen Kaisha,https://en.wikipedia.org/wiki/MS_Asuka_II,7JBI,8806204,432545000,545,960
+Hebridean Sky,Noble Caledonia,https://en.wikipedia.org/wiki/Hebridean_Sky,C6BG2,8802882,311000253,72,120
+Island Sky ,Noble Caledonia,https://www.vesselfinder.com/vessels/ISLAND-SKY-IMO-8802894-MMSI-311743000,C6TQ2,8802894,311743000,70,118
+Caledonian Sky,Noble Caledonia Cruises,https://www.vesselfinder.com/vessels/CALEDONIAN-SKY-IMO-8802870-MMSI-311061100,C6Z02,8802870,311061100,75,114
+Norway,Norwegian Cruise Line,https://en.wikipedia.org/wiki/SS_Norway,LITA,5119143,,1000,2565
+Norwegian Bliss,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Bliss_(cruise_ship),C6DL4,9751509,311000710,1731,4903
+Norwegian Breakaway,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Breakaway,C6ZJ3,9606912,311050800,1657,4819
+Norwegian Dawn,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Dawn,C6FT7,9195169,311307000,1032,2808
+Norwegian Encore,Norwegian Cruise Line,https://www.vesselfinder.com/vessels/NORWEGIAN-ENCORE-IMO-9751511-MMSI-311000879,C6EF4,9751511,311000879,1731,5218
+Norwegian Epic,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Epic,C6XP7,9410569,311018500,1724,5074
+Norwegian Escape,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Escape,C6BR3,9677076,311000341,1733,5218
+Norwegian Gem,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Gem,C6VG8,9355733,309951000,1070,2873
+Norwegian Getaway,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Getaway,C6ZJ4,9606924,311050900,1646,4819
+Norwegian Jade,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Jade,C6WK7,9304057,308416000,1100,3590
+Norwegian Jewel,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Jewel,C6TX6,9304045,311827000,1100,2866
+Norwegian Joy,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Joy,C6CX3,9703796,311000599,1731,4620
+Norwegian Pearl,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Pearl,C6VG7,9342281,309653000,1154,2873
+Norwegian Sky,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Sky,C6PZ8,9128532,308865000,899,2450
+Norwegian Spirit,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Spirit,C6TQ6,9141065,311746000,1125,2414
+Norwegian Star,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Star,C6FR3,9195157,311082000,1084,2813
+Norwegian Sun,Norwegian Cruise Line,https://en.wikipedia.org/wiki/Norwegian_Sun,C6RN3,9218131,311109000,906,2400
+Ocean Dream,Ocean Dream Cruise,https://en.wikipedia.org/wiki/Ocean_Dream_(1982_ship),3EWW6,7915096,373297000,550,1422
+Ocean Star Pacific,Ocean Star Cruises,https://en.wikipedia.org/wiki/MV_Ocean_Star_Pacific,V4BV3,7027411,341554000,230,1231
+Insignia,Oceania Cruises,https://en.wikipedia.org/wiki/MS_Insignia,V7DM2,9156462,538001663,400,824
+Marina,Oceania Cruises,https://en.wikipedia.org/wiki/MS_Marina,V7SK2,9438066,538003668,800,1447
+Nautica,Oceania Cruises,https://en.wikipedia.org/wiki/MS_Nautica,V7DM4,9200938,538001665,386,824
+Ocean Princess,Oceania Cruises,https://en.wikipedia.org/wiki/Ocean_Princess_(ship),ZCDS4,9187899,310505000,373,826
+Regatta,Oceania Cruises,https://en.wikipedia.org/wiki/MS_Regatta,V7DM3,9156474,538001664,386,824
+Riviera,Oceania Cruises,https://en.wikipedia.org/wiki/MS_Riviera,V7WO5,9438078,538004353,800,1447
+Sirena,Oceania Cruises,https://www.vesselfinder.com/vessels/SIRENA-IMO-9187899-MMSI-538006842,V7RX6,9187899,538006842,375,803
+Ortelius,Oceanwide Expeditions,https://en.wikipedia.org/wiki/MV_Ortelius,5BMC3,,209778000,52,116
+Ivernia,Odessa Cruise Company,https://en.wikipedia.org/wiki/RMS_Ivernia,GTKX,5119765,,461,929
+Arcadia,P & O Cruises,https://en.wikipedia.org/wiki/MV_Arcadia_(2004),ZCDN2,9226906,310459000,976,2388
+Aurora,P & O Cruises,https://en.wikipedia.org/wiki/MV_Aurora_(2000),ZCDW9,9169524,310556000,850,2258
+Azura,P & O Cruises,https://en.wikipedia.org/wiki/Azura_(ship),ZCEE2,9424883,,1226,3737
+Britannia,P & O Cruises,https://en.wikipedia.org/wiki/MV_Britannia_(2015),2HHG5,9614036,235106595,1398,4406
+Canberra,P & O Cruises,https://en.wikipedia.org/wiki/SS_Canberra,GBVC,5059953,,900,4200
+Oceana,P & O Cruises,https://en.wikipedia.org/wiki/MV_Oceana,ZCDN9,9169550,310473000,889,2419
+Oriana,P & O Cruises,https://en.wikipedia.org/wiki/SS_Oriana_(1959),GVSN,5264742,,980,1882
+Pacific Aria,P & O Cruises,https://en.wikipedia.org/wiki/Pacific_Aria,2IYN3,8919269,235113823,602,1512
+Pacific Dawn,P & O Cruises,https://en.wikipedia.org/wiki/Pacific_Dawn_(ship),2AGH7,8521232,235059368,660,1915
+Pacific Explorer,P & O Cruises,https://en.wikipedia.org/wiki/Pacific_Explorer,MAQK9,9103996,310437000,924,2395
+Pacific Jewel,P & O Cruises,https://en.wikipedia.org/wiki/Pacific_Jewel,C6EG9,8521220,311000892,621,2014
+Ventura,P & O Cruises,https://en.wikipedia.org/wiki/MS_Ventura,ZCDT2,9333175,310562000,1226,3727
+Palm Beach Princess,Palm Beach Casino Line,https://en.wikipedia.org/wiki/Palm_Beach_Princess,3FNQ2,6402937,,113,470
+Delphin,Passat Kreuzfahrten,https://en.wikipedia.org/wiki/MV_Delphin,C6ZV6,7347536,311067500,230,640
+Clio,Paul Gauguin Cruises,https://en.wikipedia.org/wiki/MS_Clio,9HA4306,9159830,249596000,60,90
+Empress of Britain,Peace Boat,https://en.wikipedia.org/wiki/RMS_Empress_of_Britain_(1955),V4XW,5103924,,464,1145
+Oceanic,Peace Boat,https://en.wikipedia.org/wiki/SS_Oceanic_(1965),T2DK4, 5260679,,565,1800
+Pearl Mist,Pearl Sea Cruises,https://en.wikipedia.org/wiki/Pearl_Mist,V7RM9, 9412701,538003543,65,216
+Albatros,Phoenix Reisen,https://en.wikipedia.org/wiki/MS_Albatros,C6CN4,7304314,308784000,340,830
+Amadea,Phoenix Reisen,https://en.wikipedia.org/wiki/MS_Amadea,C6VE9, 8913162,308445000,292,624
+Artania,Phoenix Reisen,https://en.wikipedia.org/wiki/MV_Artania,C6CY5,8201480,311000608,537,1260
+Aurelia,Phoenix Reisen,https://www.vesselfinder.com/vessels/AURELIA-IMO-7602120-MMSI-209510000,5BEA5,7602120,209510000,92,250
+Deutschland,Phoenix Reisen,https://www.vesselfinder.com/vessels/DEUTSCHLAND-IMO-9151541-MMSI-211188000,DMLQ,9151541,211188000,280,636
+Maxim Gorkiy,Phoenix Reisen,https://en.wikipedia.org/wiki/SS_Maxim_Gorkiy,C6IQ5,6810627,,340,788
+Prinsendam,Phoenix Reisen,https://en.wikipedia.org/wiki/MS_Prinsendam_(1988),PBGH,8700280,311000840,470,1006
+Prinzessin Isabella,Phoenix Reisen,https://www.vesselfinder.com/vessels/PRINZESSIN-ISABELLA-IMO-0-MMSI-249099000,9HKQ9,,249099000,42,170
+Prinzessin Katharina,Phoenix Reisen,https://www.vesselfinder.com/vessels/PRINZESSIN-KATHARINA-IMO-0-MMSI-215437000,9HOX7,,215437000,35,144
+Prinzessin Sisi,Phoenix Reisen,https://www.vesselfinder.com/vessels/PRINZESSIN-SISI-IMO-0-MMSI-256417000,9HTT8,,256417000,38,156
+Hamburg,Plantours,https://en.wikipedia.org/wiki/MS_Hamburg,C6OX6,9138329,309908000,170,420
+L'Austral,Ponant Cruises,https://en.wikipedia.org/wiki/L%27Austral,FLTU,9502518,578000700,136,264
+Le Boreal,Ponant Cruises,https://en.wikipedia.org/wiki/Le_Bor%C3%A9al,FLSY,9502506,578000500,139,264
+Le Bougainville,Ponant Cruises,https://www.vesselfinder.com/vessels/LE-BOUGAINVILLE-IMO-9814040-MMSI-578001300,FLDT,9814040,578001300,110,184
+Le Champlain,Ponant Cruises,https://www.vesselfinder.com/vessels/LE-CHAMPLAIN-IMO-9814038-MMSI-578001100,FLBP,9814038,578001100,110,184
+Le Dumont d'Urville,Ponant Cruises,https://www.vesselfinder.com/vessels/LE-DUMONT-DURVILLE-IMO-9814052-MMSI-578001200,FLDS,9814052,578001200,110,184
+Le Laperouse,Ponant Cruises,https://www.vesselfinder.com/vessels/LE-LAPEROUSE-IMO-9814026-MMSI-578000900,FLBD,9814026,578000900,110,184
+Le Levant ,Ponant Cruises,http://www.shipspotting.com/gallery/photo.php?lid=2218740,C6ZL7,9159830,311058800,50,90
+Le Lyrial,Ponant Cruises,https://www.vesselfinder.com/vessels/LE-LYRIAL-IMO-9704130-MMSI-578000800,FIRS,9704130,578000800,139,264
+Le Ponant,Ponant Cruises,https://en.wikipedia.org/wiki/Le_Ponant,FGZZ,8914219,227186000,32,67
+Le Soleal,Ponant Cruises,https://www.vesselfinder.com/vessels/LE-SOLEAL-IMO-9641675-MMSI-578000200,FIHV,9641675,578000200,139,264
+Funchal,Portuscale Cruises,https://en.wikipedia.org/wiki/MV_Funchal,CSBM,5124162,255971000,155,524
+Lisboa,Portuscale Cruises,https://en.wikipedia.org/wiki/MV_Lisboa,CQTK, 5282483,255987000,225,640
+Porto,Portuscale Cruises,https://en.wikipedia.org/wiki/MV_Porto,CQUU,6419057,255969000,200,372
+Yamal,Poseidon Arctic Voyages,https://www.vesselfinder.com/vessels/YAMAL-IMO-9077549-MMSI-273132400,UCJT,9077549,273132400,189,100
+Eugenio Costa,Premier Cruises,https://en.wikipedia.org/wiki/SS_Eugenio_C,C6JR3,8506373,308214000,424,1636
+Rembrandt,Premier Cruises,https://www.vesselfinder.com/vessels/REMBRANDT-IMO-0-MMSI-244780323,PC5412,,244780323,11,33
+Serenissima ,Premier Cruises,https://www.vesselfinder.com/vessels/SERENISSIMA-IMO-5142657-MMSI-376439000,J8B4685,5142657,376439000,50,118
+Caribbean Princess,Princess Cruises,https://en.wikipedia.org/wiki/Caribbean_Princess,ZCDG8,9215490,310423000,1200,3766
+Coral Princess,Princess Cruises,https://en.wikipedia.org/wiki/Coral_Princess,ZCDF4,9229659,310376000,900,2400
+Crown Princess,Princess Cruises,https://en.wikipedia.org/wiki/Crown_Princess_(2005),ZCDM6, 9293399,310500000,1201,3674
+Diamond Princess,Princess Cruises,https://en.wikipedia.org/wiki/Diamond_Princess_(ship),2HFZ7,9228198,310404000,1100,3247
+Emerald Princess,Princess Cruises,https://en.wikipedia.org/wiki/Emerald_Princess,ZCDP8,9333151,310531000,1200,3679
+Golden Princess,Princess Cruises,https://en.wikipedia.org/wiki/Golden_Princess_(2000),ZCDA9,9192351,310344000,1100,3158
+Grand Princess,Princess Cruises,https://en.wikipedia.org/wiki/Grand_Princess,ZCBU5,9104005,310327000,1150,3122
+Island Princess,Princess Cruises,https://en.wikipedia.org/wiki/MS_Island_Princess_(2003),ZCDG4,9230402,310384000,900,2657
+Majestic Princess,Princess Cruises,https://www.vesselfinder.com/vessels/MAJESTIC-PRINCESS-IMO-9614141-MMSI-232002990,MABI4,9614141,232002990,1350,4272
+Pacific Princess,Princess Cruises,https://en.wikipedia.org/wiki/Pacific_Princess,ZCDS3,9187887,310504000,373,826
+Regal Princess,Princess Cruises,https://en.wikipedia.org/wiki/Regal_Princess_(2013),ZCEK6,9584724,310674000,1350,4272
+Royal Princess,Princess Cruises,https://en.wikipedia.org/wiki/Royal_Princess_(2012),ZCEI3,9584712,310661000,1350,4272
+Ruby Princess,Princess Cruises,https://en.wikipedia.org/wiki/Ruby_Princess,ZCDY2,9378462,310567000,1200,3672
+Sapphire Princess,Princess Cruises,https://en.wikipedia.org/wiki/Sapphire_Princess,2HFZ6,9228186,235103357,1100,3214
+Sea Princess,Princess Cruises,https://en.wikipedia.org/wiki/Sea_Princess,ZCBU3,9150913,310465000,910,2417
+Sky Princess,Princess Cruises,https://www.vesselfinder.com/vessels/SKY-PRINCESS-IMO-9802396-MMSI-310780000,ZCEV9,9802396,310780000,1350,4402
+Star Princess,Princess Cruises,https://en.wikipedia.org/wiki/Star_Princess_(2001),ZCDD6,9192363,310361000,1205,3115
+Sun Princess,Princess Cruises,https://en.wikipedia.org/wiki/MS_Sun_Princess,ZCBU6,9000259,310438000,924,2419
+Atlantic Star,Pullmantur Cruises,https://en.wikipedia.org/wiki/Atlantic_Star_(cruise_ship),9HOC8,8024026,,600,1250
+Horizon,Pullmantur Cruises,https://en.wikipedia.org/wiki/MV_Horizon,9HYZ9,8807088,249727000,620,1828
+Monarch,Pullmantur Cruises,https://en.wikipedia.org/wiki/MS_Monarch,9HA3314,8819500,229415000,822,2752
+Ocean Dream,Pullmantur Cruises,https://en.wikipedia.org/wiki/Ocean_Dream_(1972_ship),C6HK9,7915096,373297000,390,1027
+Sovereign,Pullmantur Cruises,https://en.wikipedia.org/wiki/MS_Sovereign,9HUE9,8512281,249539000,820,2852
+Zenith,Pullmantur Cruises,https://en.wikipedia.org/wiki/Zenith_(ship),9HXM8,8918136,256561000,620,1828
+Pacific,Quail Cruises,https://en.wikipedia.org/wiki/Pacific_(ship),C6SB5,7018563,311245000,350,750
+Ocean Adventurer,Quark Expeditions,https://www.vesselfinder.com/vessels/OCEAN-ADVENTURER-IMO-7391422-MMSI-309997000,C6PG6,7391422,309997000,87,132
+Ocean Atlantic ,Quark Expeditions,https://www.vesselfinder.com/vessels/OCEAN-ATLANTIC-IMO-8325432-MMSI-311000422,C6CB6,8325432,311000422,140,198
+Ocean Diamond,Quark Expeditions,https://www.vesselfinder.com/vessels/OCEAN-DIAMOND-IMO-7325629-MMSI-311063900,C6ZR5,7325629,311063900,106,251
+Ocean Nova,Quark Expeditions,https://www.vesselfinder.com/vessels/OCEAN-NOVA-IMO-8913916-MMSI-309051000,C6US3,8913916,309051000,38,78
+Sea Spirit,Quark Expeditions,https://www.vesselfinder.com/vessels/SEA-SPIRIT-IMO-8802868-MMSI-309224000,C6PJ8,8802868,309224000,72,120
+World Explorer,Quark Expeditions,https://www.vesselfinder.com/vessels/WORLD-EXPLORER-IMO-9835719-MMSI-255806193,CQAJ7,9835719,255806193,125,176
+Paul Gauguin,Regent Seven Seas Cruises,https://en.wikipedia.org/wiki/Paul_Gauguin_(ship),C6TH9,9111319,311652000,215,352
+Seven Seas Explorer,Regent Seven Seas Cruises,https://www.vesselfinder.com/vessels/SEVEN-SEAS-EXPLORER-IMO-9703150-MMSI-538006712,V7QK9,9703150,538006712,542,829
+Seven Seas Mariner,Regent Seven Seas Cruises,https://en.wikipedia.org/wiki/Seven_Seas_Mariner,C6VV8,9210139,311622000,445,779
+Seven Seas Navigator,Regent Seven Seas Cruises,https://en.wikipedia.org/wiki/Seven_Seas_Navigator,C6ZI9,9064126,311050600,340,557
+Seven Seas Voyager,Regent Seven Seas Cruises,https://en.wikipedia.org/wiki/Seven_Seas_Voyager,C6SW3,9247144,311513000,447,777
+The World,ROW Management,https://en.wikipedia.org/wiki/MS_The_World,C6RW4,9219331,311213000,280,200
+Adonia,Royal Caribbean,https://en.wikipedia.org/wiki/MV_Adonia,9HA4800,9210220,248762000,400,777
+Adventure of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/MS_Adventure_of_the_Seas,C6SA3,9167227,311263000,1180,4058
+Allure of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Allure_of_the_Seas,C6XS8,9383948,311020700,2200,6780
+Anthem of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Anthem_of_the_Seas,C6BI7,9656101,311000274,1300,4905
+Brilliance of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/MS_Brilliance_of_the_Seas,C6SJ5,9195200,311361000,859,2580
+Empress of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Empress_of_the_Seas,C6CM8, 8716899,311000515,671,1910
+Enchantment of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Enchantment_of_the_Seas,C6FZ7,9111802,311733000,770,2746
+Explorer of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Explorer_of_the_Seas,C6SE4,9161728,311316000,1180,3938
+Freedom of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/MS_Freedom_of_the_Seas,C6UZ7,9304033,309906000,1360,4541
+Grandeur of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Grandeur_of_the_Seas,C6SE3,9102978,311315000,770,2446
+Harmony of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Harmony_of_the_Seas,C6BX8,9682875,311000396,2394,6780
+Independence of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Independence_of_the_Seas,C6WW4,9349681,309374000,1360,4370
+Jewel of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Jewel_of_the_Seas,C6FW9,9228356,311583000,859,2573
+Liberty of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Liberty_of_the_Seas,C6VQ8,9330032,309436000,1360,4960
+Majesty of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Majesty_of_the_Seas,C6FZ8,8819512,311734000,833,2863
+Mariner of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Mariner_of_the_Seas,C6FV9,9227510,311493000,1213,4001
+Navigator of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Navigator_of_the_Seas,C6FU4,9227508,311478000,1213,4000
+Oasis of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Oasis_of_the_Seas,C6XS7,9383936,311020600,2150,6780
+Ovation of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Ovation_of_the_Seas,C6BX9,9697753,311000397,1300,4905
+Quantum of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/MS_Quantum_of_the_Seas,C6BH8,9549463,311000267,1300,4905
+Radiance of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Radiance_of_the_Seas,C6SE7,9195195,311319000,859,2546
+Rhapsody of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Rhapsody_of_the_Seas,C6UA2,9116864,311805000,765,2431
+Serenade of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Serenade_of_the_Seas,C6FV8,9228344,311492000,891,2580
+Spectrum Of The Seas,Royal Caribbean,https://www.vesselfinder.com/vessels/SPECTRUM-OF-THE-SEAS-IMO-9778856-MMSI-311000749,C6DQ5,9778856,311000749,1550,4819
+Symphony of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Symphony_of_the_Seas,C6DF6,9744001,311000660,2200,6680
+Vision of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Vision_of_the_Seas,C6SE8,9116876,311321000,765,2514
+Voyager of the Seas,Royal Caribbean,https://en.wikipedia.org/wiki/Voyager_of_the_Seas,C6SE5,9161716,311317000,1181,3938
+Oasia,Saga Cruises,https://www.cruisemapper.com/ships/Oasia-629,9HA2415,7214715,248563000,380,766
+Saga Pearl II,Saga Cruises,https://www.vesselfinder.com/vessels/SAGA-PEARL-II-IMO-8000214-MMSI-256878000,9HA2950,8000214,256878000,252,512
+Saga Sapphire,Saga Cruises,https://en.wikipedia.org/wiki/MS_Saga_Sapphire,9HOF8,7822457,256208000,415,1158
+Sagafjord,Saga Cruises,https://en.wikipedia.org/wiki/Sagafjord,C6ZU, 6416043,,350,620
+Spirit of Adventure,Saga Cruises,http://www.shipspotting.com/gallery/photo.php?lid=1141910,9HA2295,7904889,248277000,530,999
+Mandalay,Sail Windjammer,https://en.wikipedia.org/wiki/Mandalay_(ship),5IM672,7738383,677057200,28,72
+Brahe,Saimaan Matkaverkko Ltd,https://en.wikipedia.org/wiki/MS_Brahe,LEJP,5345065,259167000,18,45
+Polaris,Sakhalin-Kurily JSC,https://en.wikipedia.org/wiki/MS_Polaris,UBDF,6807395,273430670,36,201
+Scenic Eclipse,Scenic Cruises,https://www.vesselfinder.com/vessels/SCENIC-ECLIPSE-IMO-9797371-MMSI-248526000,9HA4692,9797371,248526000,172,228
+Sea Cloud,Sea Cloud Cruises,https://en.wikipedia.org/wiki/Sea_Cloud,9HOM2,8843446,256084000,60,64
+Sea Cloud II,Sea Cloud Cruises,https://en.wikipedia.org/wiki/Sea_Cloud_II,9HUE6,9171292,248953000,63,96
+Seabourn Odyssey,Seabourn Cruise Line,https://en.wikipedia.org/wiki/Seabourn_Odyssey,C6XC6,9417086,309416000,335,540
+Seabourn Quest,Seabourn Cruise Line,https://en.wikipedia.org/wiki/Seabourn_Quest,C6YZ5,9483126,311038900,335,540
+Seabourn Sojourn,Seabourn Cruise Line,https://en.wikipedia.org/wiki/Seabourn_Sojourn,C6YA5,9417098,311027100,330,540
+Seabourn Encore,Seabourn Cruises,https://www.vesselfinder.com/vessels/SEABOURN-ENCORE-IMO-9731171-MMSI-311000464,C6CG4,9731171,311000464,330,638
+Seabourn Ovation,Seabourn Cruises,https://www.vesselfinder.com/vessels/SEABOURN-OVATION-IMO-9764958-MMSI-311000585,C6CV5,9764958,311000585,330,638
+SeaDream I,SeaDream Yacht Club,https://en.wikipedia.org/wiki/SeaDream_I,C6PW8,8203438,308908000,100,112
+SeaDream II,SeaDream Yacht Club,https://en.wikipedia.org/wiki/SeaDream_II,C6PW9, 8203440,308311000,100,112
+World Odyssey,Semester at Sea,https://en.wikipedia.org/wiki/MS_World_Odyssey,C6BZ6,9141807,311000410,90,520
+Ola Esmeralda,Servicios Acuaticos Venezuela,https://en.wikipedia.org/wiki/MV_Ola_Esmeralda_(2009),YYLS,6613328,775509000,200,472
+Turama,Sete Yacht Management,https://www.vesselfinder.com/vessels/TURAMA-IMO-8907216-MMSI-403051000,HZFR,8907216,403051000,60,70
+Silver Cloud,Silversea Cruises,https://en.wikipedia.org/wiki/Silver_Cloud_(ship),C6MQ5,8903923,309027000,222,302
+Silver Discoverer,Silversea Cruises,https://en.wikipedia.org/wiki/Silver_Discoverer,C6OZ3,8800195,309913000,70,154
+Silver Explorer,Silversea Cruises,https://en.wikipedia.org/wiki/Silver_Explorer,C6TA8,8806747,311562000,118,173
+Silver Galapagos,Silversea Cruises,https://www.vesselfinder.com/vessels/SILVER-GALAPAGOS-IMO-8708660-MMSI-735057575,HC4403,8708660,735057575,75,120
+Silver Muse,Silversea Cruises,https://www.vesselfinder.com/vessels/SILVER-MUSE-IMO-9784350-MMSI-311000637,C6DC5,9784350,311000637,408,691
+Silver Shadow,Silversea Cruises,https://en.wikipedia.org/wiki/Silver_Shadow_(ship),C6FN6,9192167,308628000,295,466
+Silver Spirit,Silversea Cruises,https://en.wikipedia.org/wiki/MS_Silver_Spirit,C6XU6,9437866,311022500,412,648
+Silver Whisper,Silversea Cruises,https://en.wikipedia.org/wiki/Silver_Whisper,C6FN7,9192179,308322000,295,466
+Silver Wind,Silversea Cruises,https://en.wikipedia.org/wiki/MS_Silver_Wind,C6FG2,8903935,308814000,208,355
+Siritara Ocean Queen,Siritara Enterprise,https://en.wikipedia.org/wiki/MS_Siritara_Ocean_Queen,HSB3052,5414971,,134,333
+Fairstar,Sitmar Cruises,https://en.wikipedia.org/wiki/TSS_Fairstar,5MXH,5267732,,460,1868
+Royal Clipper,Star Clippers,https://en.wikipedia.org/wiki/Royal_Clipper,9HA2796,8712178,215813000,106,227
+Star Clipper,Star Clippers,https://en.wikipedia.org/wiki/Star_Clipper,9HA2513,8915445,248786000,72,170
+Star Flyer,Star Clippers,https://en.wikipedia.org/wiki/Star_Flyer,9HA2512,8915433,248785000,72,170
+Star Pisces,Star Cruises,https://en.wikipedia.org/wiki/Star_Pisces,C6AV5,8710857,311000164,750,1900
+SuperStar Aquarius,Star Cruises,https://en.wikipedia.org/wiki/SuperStar_Aquarius,C6LG6,9008421,308273000,700,2156
+SuperStar Gemini,Star Cruises,https://en.wikipedia.org/wiki/SuperStar_Gemini_(2012),C6LG5,9008419,308272000,700,2156
+SuperStar Libra,Star Cruises,https://en.wikipedia.org/wiki/SuperStar_Libra,C6DM2,8612134,308188000,740,1500
+Rex Fortune,Star Sail Investments Ltd,https://www.vesselfinder.com/vessels/REX-FORTUNE-IMO-7346934-MMSI-0,C6II5,7346934,308768000,200,512
+Achille Lauro,StarLauro Cruises,https://en.wikipedia.org/wiki/MS_Achille_Lauro,IBHE,5390008,,300,1372
+Achille Lauro,StarLauro Cruises,https://en.wikipedia.org/wiki/MS_Achille_Lauro,PIQF,5390008,,300,1372
+Minerva,Swan Hellenic,https://www.vesselfinder.com/vessels/MINERVA-IMO-9144196-MMSI-248503000,9HA4677,9144196,248503000,160,394
+Glen Massan ,The Majestic Line,https://www.vesselfinder.com/vessels/GLEN-MASSAN-IMO-0-MMSI-235034073,MLTN8,,235034073,4,11
+Stella Australis,Transportes Maritimos Geo,https://www.vesselfinder.com/vessels/STELLA-AUSTRALIS-IMO-9534676-MMSI-725017800,CBST,9534676,725017800,62,210
+Ventus Australis,Transportes Maritimos Terra,https://www.vesselfinder.com/vessels/VENTUS-AUSTRALIS-IMO-9805403-MMSI-725001586,CBVS,9805403,725001586,62,210
+Mein Schiff 1,TUI Cruises,https://www.vesselfinder.com/vessels/MEIN-SCHIFF-1-IMO-9783564-MMSI-248513000,9HA4683,9783564,248513000,1000,2894
+Mein Schiff 2,TUI Cruises,https://www.vesselfinder.com/vessels/MEIN-SCHIFF-2-IMO-9783576-MMSI-248956000,9HA4883,9783576,248956000,780,2669
+Mein Schiff 3,TUI Cruises,https://en.wikipedia.org/wiki/Mein_Schiff_3,9HA3062,9641730,229090000,1000,2700
+Mein Schiff 4,TUI Cruises,https://en.wikipedia.org/wiki/Mein_Schiff_4,9HA3513,9678408,229678000,1030,2790
+Mein Schiff 5,TUI Cruises,https://en.wikipedia.org/wiki/Mein_Schiff_5,9HA3858,9753193,256235000,1030,2700
+Mein Schiff 6,TUI Cruises,https://en.wikipedia.org/wiki/Mein_Schiff_6,9HA4330,9753208,249660000,1030,2700
+Mein Schiff Herz,TUI Cruises,https://en.wikipedia.org/wiki/Mein_Schiff_Herz,9HJG9,9106302,249053000,900,1912
+Americana,Unknown,https://www.vesselfinder.com/vessels/AMERICANA-IMO-8949472-MMSI-369039000,WNAI,8949472,,45,138
+Plancius,Unknown,https://www.vesselfinder.com/vessels/PLANCIUS-IMO-7432044-MMSI-246573000,PBQK,7432044,246573000,47,116
+Ocean Gala,US Shipmanagers,https://en.wikipedia.org/wiki/MS_Island_Escape,C6SK4,8002597,311368000,540,1760
+Carissima,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/CARISSIMA-IMO-0-MMSI-211162570,DC8432,,211162570,40,150
+Lale Andersen,Viking Ocean Cruises,https://www.myshiptracking.com/vessels/de-amsterdam-mmsi-211513900-imo-0,DC2226,,211513900,21,112
+Verdi,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VERDI-IMO-0-MMSI-211162220,DC5388,,211162220,40,150
+Viking Aegir,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-AEGIR-IMO-0-MMSI-269057408,HE7408,,269057408,50,190
+Viking Alruna,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-ALRUNA-IMO-0-MMSI-269057550,HE7550,,269057550,50,190
+Viking Alsvin,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-ALSVIN-IMO-0-MMSI-269057468,HE7468,,269057468,50,190
+Viking Astrild,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-ASTRILD-IMO-0-MMSI-269057521,HE7521,,269057521,30,98
+Viking Atla,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-ATLA-IMO-0-MMSI-269057421,HE7421,,269057421,50,190
+Viking Baldur,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-BALDUR-IMO-0-MMSI-269057448,HE7448,,269057448,50,190
+Viking Bestla,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-BESTLA-IMO-0-MMSI-269057467,HE7467,,269057467,50,190
+Viking Beyla,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-BEYLA-IMO-0-MMSI-269057520,DMBU,,269057520,30,98
+Viking Bragi,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-BRAGI-IMO-0-MMSI-269057415,HE7415,,269057415,50,190
+Viking Buri,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-BURI-IMO-0-MMSI-269057460,HE7460,,269057460,50,190
+Viking Delling,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-DELLING-IMO-0-MMSI-269057462,HE7462,,269057462,50,190
+Viking Egil,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-EGIL-IMO-0-MMSI-269057551,HE7551,,269057551,50,190
+Viking Eir,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-EIR-IMO-0-MMSI-269057494,HE7494,,269057494,50,190
+Viking Eistla,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-EISTLA-IMO-0-MMSI-269057466,HE7466,,269057466,50,190
+Viking Embla,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-EMBLA-IMO-0-MMSI-269057407,HE7407,,269057407,50,190
+Viking Foresti,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-FORSETI-IMO-0-MMSI-269057418,HE7418,,269057418,50,190
+Viking Freya,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-FREYA-IMO-0-MMSI-269057390,HE7390,,269057390,50,190
+Viking Gefjon,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-GEFJON-IMO-0-MMSI-269057516,HE7516,,269057516,50,190
+Viking Heimdal,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-HEIMDAL-IMO-0-MMSI-269057461,HE7461,,269057461,50,190
+Viking Helgi,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-HELGI-IMO-0-MMSI-273367610,UAWG9,8422606,273367610,120,250
+Viking Hermod,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-HERMOD-IMO-0-MMSI-269057459,HE7459,,269057459,50,190
+Viking Hiln,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-HLIN-IMO-0-MMSI-269057478,HE7478,,269057478,50,190
+Viking Idi,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-IDI-IMO-0-MMSI-269057469,HE7469,,269057469,50,190
+Viking Idun,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-IDUN-IMO-0-MMSI-269057388,HE7388,,269057388,50,190
+Viking Ingvar,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-INGVAR-IMO-0-MMSI-273369610,UAQG-5,,273369610,114,199
+Viking Ingvi,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-INGVI-IMO-0-MMSI-269057465,HE7465,,269057465,50,190
+Viking Jarl,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-JARL-IMO-0-MMSI-269057420,HE7420,,269057420,50,190
+Viking Jupiter,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-JUPITER-IMO-9796262-MMSI-257058920,LAYP7,9796262,257058920,465,928
+Viking Kadlin,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-KADLIN-IMO-0-MMSI-269057547,HE7547,,269057547,50,190
+Viking Kara,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-KARA-IMO-0-MMSI-269057477,HE7477,,269057477,50,190
+Viking Kvasir,Viking Ocean Cruises,https://www.vesselfinder.com/de/vessels/VIKING-KVASIR-IMO-0-MMSI-269057476,HE7476,,269057476,50,190
+Viking Legend,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-LEGEND-IMO-0-MMSI-269057308,HE7308,,269057308,45,189
+Viking Lif,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-LIF-IMO-0-MMSI-269057464,HE7464,,269057464,50,190
+Viking Lofn,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-LOFN-IMO-0-MMSI-269057496,HE7496,,269057496,50,190
+Viking Magni,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-MAGNI-IMO-0-MMSI-269057449,HE7449,,269057449,50,190
+Viking Mani,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-MANI-IMO-0-MMSI-269057489,HE7489,,269057489,50,190
+Viking Mimir,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-MIMIR-IMO-0-MMSI-269057518,HE7518,,269057518,50,190
+Viking Modi,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-MODI-IMO-0-MMSI-269057499,HE7499,,269057499,50,190
+Viking Njord,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-NJORD-IMO-0-MMSI-269057387,HE7387,,269057387,50,190
+Viking Odin,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-ODIN-IMO-0-MMSI-269057389,HE7389,,269057389,50,190
+Viking Orion,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-ORION-IMO-9796250-MMSI-257034130,LAYQ7,9796250,257034130,465,928
+Viking Prestige,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-PRESTIGE-IMO-0-MMSI-269057374,HE7374,,269057374,45,188
+Viking Rinda,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-RINDA-IMO-0-MMSI-269057419,HE7419,,269057419,50,190
+Viking Rolf,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-ROLF-IMO-0-MMSI-269057548,HE7548,,269057548,50,190
+Viking Rurik,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-RURIK-IMO-0-MMSI-273368610,UAWG-8,,273368610,105,196
+Viking Sea,Viking Ocean Cruises,https://en.wikipedia.org/wiki/MV_Viking_Sea_(2015),LAWP7,9725421,258215000,550,930
+Viking Sigyn,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-SIGYN-IMO-0-MMSI-269057695,HE7695,,269057695,50,190
+Viking Sineus,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-SINEUS-IMO-7823994-MMSI-272582000,UUAO8,7823994,272582000,110,196
+Viking Skadi,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-SKADI-IMO-0-MMSI-269057414,HE7414,,269057414,50,190
+Viking Skirnir,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-SKIRNIR-IMO-0-MMSI-269057498,HE7498,,269057498,50,190
+Viking Sky,Viking Ocean Cruises,https://en.wikipedia.org/wiki/MV_Viking_Sky,LAYU7,9650420,259186000,550,930
+Viking Spirit,Viking Ocean Cruises,https://www.marinetraffic.com/en/ais/details/ships/shipid:128528/mmsi:211162230/imo:8643444/vessel:VIKING_SPIRIT,DC5428,,211162230,40,150
+Viking Star,Viking Ocean Cruises,https://en.wikipedia.org/wiki/MV_Viking_Star,LAIW6,9650418,257903000,602,930
+Viking Sun,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-SUN-IMO-9725433-MMSI-257179000,LAYT7,9725433,257179000,465,928
+Viking Tialfi,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-TIALFI-IMO-0-MMSI-269057549,HE7549,,269057549,50,190
+Viking Tor,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-TOR-IMO-0-MMSI-269057416,HE7416,,269057416,50,190
+Viking Truvor,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-TRUVOR-IMO-0-MMSI-273360710,UAWG2,,273360710,105,204
+Viking Var,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-VAR-IMO-0-MMSI-269057417,HE7417,,269057417,50,190
+Viking Ve,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-VE-IMO-0-MMSI-269057517,HE7517,,269057517,50,190
+Viking Vidar,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-VIDAR-IMO-0-MMSI-269057497,HE7497,,269057497,50,190
+Viking Vilhjalm,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-VILHJALM-IMO-0-MMSI-269057546,HE7546,,269057546,50,190
+Viking Vili,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-VILI-IMO-0-MMSI-269057519,HE7519,,269057519,50,190
+Vking Gullveig,Viking Ocean Cruises,https://www.vesselfinder.com/vessels/VIKING-GULLVEIG-IMO-0-MMSI-269057470,HE7470,,269057470,50,190
+Aegean Odyssey,Voyages to Antiquity,https://en.wikipedia.org/wiki/MV_Aegean_Odyssey,HOBW,7225910,374757000,180,396
+Legacy,Windjammer Barefoot Cruises,https://www.vesselfinder.com/vessels/LEGACY-IMO-9265847-MMSI-311427000,C6S2077,9265847,311427000,35,86
+Star Breeze,Windstar Cruises,https://en.wikipedia.org/wiki/Star_Breeze,C6FR4,8807997,311083000,164,312
+Star Legend,Windstar Cruises,https://en.wikipedia.org/wiki/Star_Legend_(ship),C6FR6,9008598,311085000,140,254
+Star Pride,Windstar Cruises,https://en.wikipedia.org/wiki/Star_Pride,C6FR5,8707343,311084000,164,254
+Wind Song,Windstar Cruises,https://en.wikipedia.org/wiki/Msy_Wind_Song,C6CB2,8420880,309535000,92,159
+Wind Spirit,Windstar Cruises,https://en.wikipedia.org/wiki/Msy_Wind_Spirit,C6CY9,8603509,309056000,90,178
+Wind Star,Windstar Cruises,https://en.wikipedia.org/wiki/Msy_Wind_Star,C6CA9,8420878,309163000,90,178
+Wind Surf,Windstar Cruises,https://en.wikipedia.org/wiki/Msy_Wind_Surf,C6IO6,8700785,309242000,214,386
+World Discoverer,Adventurer Cruises,https://en.wikipedia.org/wiki/MS_World_Discoverer,ELDU3,7349053,,80,137
+Magellan Explorer,Antarctica 21,https://www.vesselfinder.com/vessels/MAGELLAN-EXPLORER-IMO-9822516-MMSI-311000728,C6DN6,9822516,311000728,60,100
+,,,,,,,
+Taras Shevchenko,Black Sea Shipping Company,https://en.wikipedia.org/wiki/MS_Taras_Shevchenko_(1967),UTVT,6508195,,370,750
+Skorpios II,Cruceros Skorpios,https://www.vesselfinder.com/vessels/SKORPIOS-II-IMO-8006397-MMSI-725002200,CBKP,8006397,725002200,34,106
+Skorpios III,Cruceros Skorpios,https://en.wikipedia.org/wiki/MV_Skorpios_III,CBSK,9143908,725001100,34,90
+Enchanted Isle,Commodore Cruise Line,https://www.vesselfinder.com/vessels/ENCHANTED-ISLE-IMO-0-MMSI-235107926,2HZQ8,,235107926,200,533
+Enchanted Capri,Commodore Cruise Line,https://en.wikipedia.org/wiki/MS_Enchanted_Capri,XCJP7,7359474,345070213,155,937
+Doulos Phos,Clyde-Mallory Line,https://en.wikipedia.org/wiki/MV_Doulos_Phos,9HKF,5119105,256056000,350,414
+Maestro,Blue Monarch Shipping,https://en.wikipedia.org/wiki/MS_Renaissance,9LY2227, 6604834,667003030,230,474
+National Geographic Venture,Lindblad Expeditions,https://www.vesselfinder.com/vessels/NAT-GEO-VENTURE-IMO-9799044-MMSI-369358000,,9799044,369358000,35,100
+Celebrity Xploration,Celebrity Cruises,https://www.vesselfinder.com/vessels/CELEBRITY-XPLORATION-IMO-9455882-MMSI-0,,9455882,,10,16
